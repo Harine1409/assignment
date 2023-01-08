@@ -1,0 +1,194 @@
+body {
+  height: 100vh;
+  display: grid;
+  margin: 0;
+  padding: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  color: grey;
+}
+
+.topnav-right {
+  float: right;
+}
+
+.topbtn {
+  margin: 10px 10px 0px 0px;
+  border: none;
+  background-color: rgb(97, 97, 247);
+  border-radius: 4px;
+  width: 150px;
+  height: 50px;
+  color: white;
+}
+
+.form .form-control.form-input {
+  float: left;
+  margin-left: 73%;
+  margin-top: 50px;
+  border: 1px solid rgb(97, 97, 247);
+  border-radius: 2px;
+  height: 30px;
+  width: 25%;
+}
+.main-div {
+  display: flex;
+}
+.child1 {
+  font-size: 20px;
+  float: left;
+  width: 95%;
+}
+.child2 {
+  font-size: 20px;
+}
+.imgdiv {
+  width: 100%;
+}
+.parahead {
+  font-size: 34px;
+  font-weight: bold;
+  width: 51%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  letter-spacing: 2px;
+}
+.subhead1,
+.subhead2 {
+  color: rgb(97, 97, 247);
+}
+.spanhead {
+  text-decoration: underline orange;
+}
+.btnmain {
+  display: flex;
+}
+.btnchild1 {
+  border: none;
+  height: 50px;
+  background: #6161f7;
+  color: white;
+  width: 150px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.btnchild2 {
+  border: none;
+  height: 50px;
+  width: 150px;
+  border: 1px solid #6161f7;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  background: white;
+}
+.centertextmain {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.centertext {
+  display: flex;
+  justify-content: center;
+}
+.playimg {
+  height: 38px;
+  width: 35px;
+}
+.centertextmain1 {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.centertextmain2 {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  /* font-size: 21px;
+  font-weight: bold;
+  width: 41%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word; */
+}
+.card1,
+.card2,
+.card3 {
+  font-size: 20px;
+  float: left;
+  width: 95%;
+}
+.cardimmg1,
+.cardimmg2,
+.cardimmg3 {
+  width: 35px;
+  margin: 18px;
+}
+.cards {
+  border: none !important;
+}
+.main-div2 {
+  display: flex;
+}
+.paraheaddiv {
+  max-width: 56%;
+  margin-top: 10%;
+}
+.cardsuser {
+  max-width: 65%;
+  margin-top: 4%;
+}
+.cardsuserimg {
+  width: 100%;
+}
+.childdiv1 {
+  margin-left: 10%;
+}
+.childdiv2 {
+  display: flex;
+  margin-top: 4%;
+}
+.childdiv3 {
+  margin-left: 10%;
+  margin-top: 4%;
+}
+.middletext4 {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+}
+.cardss {
+  border: none;
+  margin-left: 10%;
+  color: #525ded;
+}
+.cardsss {
+  border: none;
+  margin-left: 15%;
+  color: #525ded;
+}
+
+.cardbg {
+  margin-left: 10%;
+  color: white;
+  background-color: #525ded !important;
+}

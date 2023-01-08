@@ -1,0 +1,71 @@
+.footer1,
+.footer2,
+.footer3 {
+  display: flex;
+  padding-bottom: 10px;
+}
+.footer1 {
+  margin-bottom: 20px;
+}
+
+.Para {
+  margin: 40px 0px;
+}
+.footer3 {
+  background: #525ded !important;
+}
+.CommanFooterpara {
+  font-weight: 600;
+}
+.bottom-main {
+  padding: 10px;
+}
+.innerright {
+  padding-left: 10px;
+}
+.weightansrightborder {
+  margin: 50px 10px;
+  padding: 10px;
+  border-left: 6px solid #525ded;
+}
+.displyflex {
+  display: flex;
+}
+.bottomborder {
+  border-bottom: 3px solid #525ded;
+}
+.margin {
+  margin-left: 10px;
+}
+.adjustment {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.leftbottom {
+  margin-left: 10px;
+}
+
+.Commonftr {
+  width: 100%;
+  display: flex;
+}
+.left,
+.right {
+  width: 50%;
+}
+.highlighter {
+  font-weight: 600;
+}
+
+.marginadjust {
+  margin: 30px 20px;
+}
+
+.vector4 {
+  width: 12%;
+}
+.Alignitems {
+  margin: 10px 0px;
+  text-align: center;
+}
